@@ -1,0 +1,34 @@
+body, header {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos para pantallas de escritorio grandes */
+@media screen and (min-width: 1200px) {
+    /* Tus estilos aquí */
+}
+
+/* Estilos para pantallas de escritorio medianas */
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .top {
+        /* Aplica un color de fondo */
+        background-color: #ff0404; 
+        width: 100%;
+        height: 50px; 
+    }
+}
+
+/* Estilos para tabletas en orientación horizontal y pantallas de escritorio pequeñas */
+@media screen and (min-width: 768px) and (max-width: 991px) {
+   
+}
+
+/* Estilos para tabletas en orientación vertical y teléfonos grandes */
+@media screen and (min-width: 576px) and (max-width: 767px) {
+    /* Tus estilos aquí */
+}
+
+/* Estilos para teléfonos en orientación horizontal y teléfonos pequeños */
+@media screen and (max-width: 575px) {
+    /* Tus estilos aquí */
+}

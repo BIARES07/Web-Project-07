@@ -135,15 +135,6 @@ body, header nav {
     height: 30px; /* Controla la altura del icono */
     margin: 0 10px; /* Espacio a los lados del icono */
 }
-.symbol {
-  color: #4284ff; /* Cambia el color según tus necesidades */
-  font-size: 25px; /* Cambia el tamaño de la fuente según tus necesidades */
-  font-weight: bold; /* Texto en negrita */
-  margin: 0 0px; /* Espacio a los lados del símbolo */
-  margin: 0 0px; /* Espacio a los lados del símbolo */
-  
-}
-
       .Reviews07 {
         background-color: #fff;
         width: 100%;
